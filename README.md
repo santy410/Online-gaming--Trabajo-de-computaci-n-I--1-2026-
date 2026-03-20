@@ -1,25 +1,40 @@
 # Online gaming (Trabajo de computación I, 1-2026)
 
-## Título Sugerido: Determinantes del Engagement y la Fidelización en la Industria del Videojuego
-### Introducción del Enfoque
+Titulo: enfoque del desempeño: Análisis de videojuegos del avance y la Persistencia ante la Dificultad Técnica.
+1. Planteamiento del Problema
 
-A diferencia del análisis tradicional de mercado, este estudio se propone explorar la resiliencia del hábito de consumo. El crecimiento de la industria no solo depende de atraer nuevos jugadores, sino de entender qué factores convierten una interacción esporádica en un patrón de comportamiento sostenido. No buscamos solo saber "qué se juega y dónde", sino cómo la estructura del género y el contexto geográfico dictan la longevidad del interés del usuario.
+La arquitectura de los videojuegos modernos trasciende el entretenimiento para convertirse en un ecosistema generador de flujos masivos de datos. Estos datos ofrecen una oportunidad única para comprender la interacción hombre-máquina; sin embargo, la industria enfrenta un vacío crítico cómo equilibrar la complejidad técnica con la retención a largo plazo. la industria carece de modelos que expliquen si el éxito del usuario se debe a su habilidad frente al desafío o simplemente al tiempo invertido. 
+El problema central radica en que la generación masiva de datos no equivale a una comprensión técnica del comportamiento. Sin un análisis que vincule la dificultad técnica con las variables de tiempo y sesión, el software de entretenimiento seguirá limitando su capacidad para retener usuarios de manera eficiente y personalizada.  
+Resumen 
 
-## Objetivos 
-### Interrogantes de Investigación
-
-Para este enfoque, las preguntas cambian su eje de "popularidad" a "comportamiento":
-1.	¿Cuáles son las diferencias de consumo (horas y frecuencia) entre los distintos géneros de videojuegos según la ubicación geográfica?
-
-2.	¿Es posible definir perfiles de jugadores (esporádicos vs. intensivos) basados en la relación entre sus horas totales y sus sesiones semanales?
+El estudio de la progresión en el software moderno requiere unificar el flujo masivo de datos con la realidad de la interacción usuario-interfaz. Solo mediante el análisis de la correlación entre dificultad, género del software y hábitos de sesión, se podrán desarrollar algoritmos de emparejamiento y progresión que mitiguen la fatiga y maximicen la retención técnica del usuario.
 
 
 
+2. Interrogantes de Investigación
 
-## Justificación del Diferencial
+Para resolver esta problemática, el estudio se plantea las siguientes preguntas de computación aplicada:
 
-Esta perspectiva permite superar la visión estática de la "foto del mercado" para pasar a una visión dinámica de ciclo de vida del jugador. Al analizar si la intensidad del uso es un predictor de abandono o de lealtad, el estudio aporta valor en el diseño de mecánicas de retención y monetización sostenible, diferenciándose de un análisis puramente orientado a ventas o lanzamientos.
+¿De qué manera la configuración de la dificultad (Easy, Medium, Hard) condiciona la tasa de desbloqueo de logros y el nivel final alcanzado por el usuario?
 
-### Utilidad del Conocimiento
+¿Existe una eficiencia de progresión cuantificable al comparar el tiempo invertido (Play Time) frente a la complejidad del género de juego?
 
-El valor de este análisis radica en la capacidad de predecir el "churn rate" (tasa de abandono) potencial de una comunidad. Entender si un jugador de una región específica tiende a "quemar" el contenido rápidamente (muchas horas en pocas sesiones) o a consumirlo de forma dosificada (sesiones breves y constantes) es vital para la planificación de actualizaciones y mantenimiento de servidores post-lanzamiento.
+3. Objetivos
+
+Objetivo General
+
+Analizar la correlación entre los valores cuantificables y datos numéricos  utilizados para medir el desempeño técnico y las variables de progresión del sistema para modelar el comportamiento del usuario en diversas categorías de software lúdico.
+
+Objetivos Específicos
+
+Evaluar el impacto de la dificultad: Determinar si los niveles de dificultad más altos actúan como una barrera de entrada o como un incentivo para el aumento de la duración de las sesiones.
+
+Cuantificar la eficiencia de la progresión: Establecer un índice que relacione los logros desbloqueados con las horas de juego en diferentes géneros (RPG, Acción, Estrategia).
+
+Modelar perfiles de persistencia: Identificar patrones de uso intensivo basados en la frecuencia de sesiones y su relación con el nivel de "Engagement" (Bajo, Medio, Alto) registrado en el dataset.
+
+4. Justificación
+
+A diferencia de los estudios comerciales convencionales, esta investigación es fundamental para la optimización del diseño de sistemas. Entender cómo interactúan las variables de dificultad y progreso permite a los desarrolladores crear arquitecturas de software más equilibradas.
+
+La obtención de estos resultados permitirá ver la  "estabilidad del sistema y satisfacción técnica del usuario". Este conocimiento es la base para el desarrollo de mecánicas de juego inteligentes que se adapten dinámicamente al perfil de habilidad del jugador, garantizando una experiencia de usuario óptima y sostenible a largo plazo.
